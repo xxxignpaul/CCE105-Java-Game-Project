@@ -1,4 +1,4 @@
-# Java RPG Battle Game (CCE105 / CCE105L)
+# Java RPG Battle Game (CCE105L)
 
 ## Project Description
 
@@ -56,7 +56,7 @@ src/
     └── Berserker.java
 ```
 
-## How to Run
+## How to Run the Program
 
 1. Install a compatible Java Development Kit (JDK 21 or newer).
 2. Open the project in Eclipse IDE.
